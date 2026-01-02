@@ -1,1 +1,5 @@
-git add .gitignore
+# Logs
+
+
+node_modules
+git
